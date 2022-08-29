@@ -1,6 +1,6 @@
-const ItemListContainer = () => {
+const ItemListContainer = ({greeting}) => {
     return(
-        <p>Hola mundo ItemListContainer!</p>
+        <p>{greeting}</p>
     );
   }
   
