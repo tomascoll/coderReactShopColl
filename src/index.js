@@ -4,13 +4,15 @@ import './index.css';
 import NavBar from './components/NavBar';
 import reportWebVitals from './reportWebVitals';
 import ItemListContainer from './components/ItemListContainer';
+import ItemCount from './components/ItemCount';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <>
     <NavBar />
     <ItemListContainer greeting='Hola mundo ItemListContainer' />
-  </React.StrictMode>
+    <ItemCount />
+  </>
 );
 
 // If you want to start measuring performance in your app, pass a function
