@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coderReactShopColl/static/css/main.b1397dfb.css",
+    "main.js": "/coderReactShopColl/static/js/main.78f94eb8.js",
+    "static/js/787.15363ab7.chunk.js": "/coderReactShopColl/static/js/787.15363ab7.chunk.js",
+    "index.html": "/coderReactShopColl/index.html",
+    "main.b1397dfb.css.map": "/coderReactShopColl/static/css/main.b1397dfb.css.map",
+    "main.78f94eb8.js.map": "/coderReactShopColl/static/js/main.78f94eb8.js.map",
+    "787.15363ab7.chunk.js.map": "/coderReactShopColl/static/js/787.15363ab7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1397dfb.css",
+    "static/js/main.78f94eb8.js"
+  ]
+}
